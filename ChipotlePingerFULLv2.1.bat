@@ -1,4 +1,4 @@
-REM Chipotle Pinger by Jakee#9898 - Do not Attempt to Copy, or resell this script.
+REM Chipotle Pinger by Jakee#9898 
 
 @echo off
 color 06
